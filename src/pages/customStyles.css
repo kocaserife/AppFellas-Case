@@ -1,0 +1,17 @@
+.black-stars .ant-rate-star-full .ant-rate-star-second,
+.black-stars .ant-rate-star-first {
+    color: black;
+}
+
+.black-stars .ant-rate-star-full .ant-rate-star-second .anticon,
+.black-stars .ant-rate-star-first .anticon {
+    color: black;
+}
+
+.small-stars .ant-rate-star {
+    font-size: 12px; /* Yıldızların boyutunu ayarlamak için */
+}
+
+.small-stars .ant-rate-star .anticon {
+    font-size: 12px; /* Yıldız ikonlarının boyutunu ayarlamak için */
+}
